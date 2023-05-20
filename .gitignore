@@ -6,7 +6,10 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-
+.firebaserc
+.firebase
+firebase.json
+src/firebase.js
 node_modules
 dist
 dist-ssr
