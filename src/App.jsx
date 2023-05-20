@@ -20,7 +20,8 @@ function App() {
        </div>
        <h2> 🚀 About Me</h2>
       <p className="read-the-docs">
-Hi there👋, my name is Muhammad Waleed and I am a Software Engineering student at Usman Institute of Technology. I am proficient in various programming languages including <ul>
+Hi there👋, my name is Muhammad Waleed and I am a Software Engineering student at Usman Institute of Technology. I am proficient in various programming languages including </p>
+<ul>
   <li>Python</li>
   <li>React</li>
   <li>JavaScript</li>
@@ -30,7 +31,8 @@ Hi there👋, my name is Muhammad Waleed and I am a Software Engineering student
   <li>Dotnet</li>
   <li>MongoDB</li>
   <li>Flask</li>
-  </ul><br/>and have experience using platforms such as Heroku and Netlify. I am also skilled in using Git for version control. I am excited to continue learning and growing as a developer and am eager to contribute to projects on GitHub. I aim to deepen my understanding in various areas of technology and product development.
+  </ul>
+<p className="read-the-docs">and have experience using platforms such as Heroku and Netlify. I am also skilled in using Git for version control. I am excited to continue learning and growing as a developer and am eager to contribute to projects on GitHub. I aim to deepen my understanding in various areas of technology and product development.
       </p>
 
       </div>
